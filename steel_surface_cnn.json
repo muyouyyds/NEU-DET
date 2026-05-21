@@ -8,5 +8,5 @@
     "scratches"
   ],
   "image_size": 224,
-  "best_validation_accuracy": 0.9888888888888889
+  "best_validation_accuracy": 0.9944444444444445
 }
